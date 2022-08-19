@@ -25,3 +25,4 @@ I am a Python developer with experience in API development using Flask and Djang
 - :cloud: Google Cloud Kubernetes Engine
 - :whale: Docker
 - :newspaper: Web development ( Javascript | CSS )
+- :memo: Web scraping ( Selenium )
