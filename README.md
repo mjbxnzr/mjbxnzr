@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Python developer with experience in API development using Flask and Django framework, building automated solution to support both strategic and tactical plans, which includes operations and engineering of my current company. I have experience in full-stack web development using Django, PorstgresSQL, Docker and Google Cloud Kubernetes Engine. Currently, I am looking into front-end web development such as Reactjs, SCSS and Nodejs.
+I am a Python developer with experience in API development using Flask and Django framework, building automated solution to support both strategic and tactical plans, which includes operations and engineering of my current company. I have experience in full-stack web development using Django, PorstgresSQL, Docker and Google Cloud Kubernetes Engine. Currently, I am looking into front-end web development such as Vuejs, SCSS and Nodejs.
 
 
 ### My skills
