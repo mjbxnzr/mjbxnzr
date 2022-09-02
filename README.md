@@ -19,26 +19,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    I am a Python developer with experience in API development using Flask and Django framework, building automated solution to support both strategic and tactical plans, which includes operations and engineering of my current company. I have experience in full-stack web development using Django, PorstgresSQL, Docker and Google Cloud Kubernetes Engine. Currently, I am looking into front-end web development such as Vuejs, SCSS and Nodejs.
+</details>
 
-
-I am a Python developer with experience in API development using Flask and Django framework, building automated solution to support both strategic and tactical plans, which includes operations and engineering of my current company. I have experience in full-stack web development using Django, PorstgresSQL, Docker and Google Cloud Kubernetes Engine. Currently, I am looking into front-end web development such as Vuejs, SCSS and Nodejs.
-
-
-### :hammer_and_wrench: Language and Tools
-<div>
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <div>
   <p> API Development <p>
+  
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"            height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" title="Django" alt="Django"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" alt="Python"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" title="Nginx" alt="Nginx"/>&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40"            height="40"/>&nbsp;
 </div>
  
 <div>
   <p> Container technology <p>
 <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
+
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
 </div>
  
 <div>
@@ -66,9 +69,20 @@ I am a Python developer with experience in API development using Flask and Djang
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
+</details>
+
+<details>
+    <summary><b>Latest project</b></summary><br/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhdMujibRahman&repo=portfolio"/>
+</details>
+
+
   
     
 
 ### Links
 
 - https://mujibnizar.vercel.app/
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MuhdMujibRahman&show_icons=true"/>
