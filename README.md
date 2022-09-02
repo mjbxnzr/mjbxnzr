@@ -69,16 +69,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
-</details>
-
-<details>
-    <summary><b>Latest project</b></summary><br/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhdMujibRahman&repo=portfolio"/>
-</details>
-
-
-  
-    
+</details>    
 
 ### Links
 
