@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/mjbxnzr/weather_app_vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjbxnzr&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjbxnzr&repo=weather_app_vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
