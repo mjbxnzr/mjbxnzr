@@ -52,14 +52,14 @@ Here are some ideas to get you started:
 - https://mujibnizar.vercel.app/
 
 ### Stats
-<a href="https://github.com/MuhdMujibRahman/MuhdMujibRahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhdMujibRahman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/mjbxnzr/mjbxnzr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbxnzr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MuhdMujibRahman/MuhdMujibRahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhdMujibRahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MuhdMujibRahman GitHub Stats" />
+<a href="https://github.com/mjbxnzr/mjbxnzr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjbxnzr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mjbxnzr GitHub Stats" />
 </a>
 
-<a href="https://github.com/MuhdMujibRahman/portfolio">
+<a href="https://github.com/mjbxnzr/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhdMujibRahman&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
